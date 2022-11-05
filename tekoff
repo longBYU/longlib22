@@ -1,0 +1,5 @@
+#
+# This script turns the xterm tektronix mode off.
+#
+
+echo -n ''

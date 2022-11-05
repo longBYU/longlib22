@@ -1,0 +1,571 @@
+\begin{theindex}
+
+  \item \%loc(), 10
+  \item \%val(), 10
+  \item 2-d surface plot, 106, 123, 126, 165
+  \item 2-d surface plotting, 37, 52
+  \item 3-d contour plot, 96
+  \item 3-d plotting, 67
+  \item 4-d surface plot, 129, 168
+  \item 41xx, 188, 189
+  \item 5-d surface, 129, 168
+
+  \indexspace
+
+  \item 4010, 13
+  \item 4014, 11, 13
+  \item 4105, 11, 13
+  \item 4107, 11, 13
+  \item 4109, 13
+
+  \indexspace
+
+  \item absolute, 65, 68
+  \item ABSPLT, 171, 192
+  \item ACLEAR, 13
+  \item ANXTVU, 192
+  \item apple laserwriter, 16
+  \item arc, 31, 52
+  \item ARCALC, 192
+  \item ARCPLT, 192
+  \item ARCSET (Entry of ARCPLT), 192
+  \item area, 32, 59
+  \item ARROW, 27, 192
+  \item ASCII, 45, 59, 70
+  \item ASTC, 211
+  \item ASTEXIT, 192
+  \item ASTINTER, 192
+  \item AXIS, 28, 39, 60, 193
+  \item axis, 39, 51
+  \item AXIS2, 29, 193
+  \item AXIS3, 30, 68, 72, 193
+  \item AXIS3D, 68, 193
+  \item AXIS3DH, 72, 193
+
+  \indexspace
+
+  \item BARCHR, 93, 193
+  \item bit pad one, 77
+  \item BITCURSOR, 77, 193
+  \item BITMAP, 86, 193
+  \item BYTE, 18
+  \item byte, 10, 27
+
+  \indexspace
+
+  \item C, 21, 22
+  \item c language, 23
+  \item Cartesian, 37
+  \item CCNTRPLT, 211
+  \item CGLPLOT, 210
+  \item channel, 173, 174
+  \item character, 27
+  \item character fonts, 62
+  \item character plots, 61, 63
+  \item characters, 59
+  \item CHCHAN, 171, 193
+  \item CHECK3D, 193
+  \item CHIDE, 210
+  \item CHLSKYS, 193
+  \item circl, 32
+  \item CIRCLE, 31, 193
+  \item circle, 52
+  \item CLEAR, 12
+  \item CLIP3D, 193
+  \item clipping, 177
+  \item CLPIT, 193
+  \item CNCELPLT, 194
+  \item CNCELPLT3D, 194
+  \item CNDRAW, 194
+  \item CNT3D, 96, 194
+  \item CNT3DX, 96, 194
+  \item CNTLN, 100, 194
+  \item CNTOUR, 194
+  \item CNTRPLT, 103, 194
+  \item Color, 19
+  \item color, 9, 213
+  \item color table, 18, 183, 187
+  \item COMMON, 75
+  \item common, 88
+  \item common block, 88
+  \item contour plot, 100, 103, 116
+  \item control keys, 173
+  \item COSMIC, 43, 67, 71, 190
+  \item CPHIST, 210
+  \item CPLOT3D, 69, 210
+  \item CPLOTLG, 210, 211
+  \item CPLOTLG2, 211
+  \item CPLOTLGL, 211
+  \item CPLOTLGX, 211
+  \item CPLOTSC, 210
+  \item CPLOTSC2, 210
+  \item CSCATPL, 211
+  \item CSEISPL, 211
+  \item CSHADE, 32, 194
+  \item CSPLOTS, 211
+  \item CSPLOTSX, 211
+  \item CTERM, 11, 12, 33, 38, 39, 57, 177, 194
+  \item CUBE, 73, 194
+  \item CURBAND, 79, 194
+  \item CURLOCATE, 78, 184, 188, 195
+  \item CURMOTION, 78, 79, 173, 186, 195
+  \item curmotion, 184
+  \item CURRECT, 79, 195
+  \item CURSOR, 9
+  \item cursor, 10, 77, 78, 80, 184
+  \item CURSORLIB, 9
+  \item CURTEST, 216
+  \item CVAX3D, 106, 195
+  \item CVAX3DX, 106, 172, 195
+
+  \indexspace
+
+  \item DASHL, 34, 148, 195
+  \item DAVE, 210
+  \item DCL, 11, 15
+  \item DecWindows, 17
+  \item dot matrix printers, 14
+  \item DRAW3D, 195
+
+  \indexspace
+
+  \item earth, 82
+  \item earth.dat, 82
+  \item EARTH3D, 83, 195
+  \item ELLIPSE, 34, 195
+  \item ENABLEAST, 195
+  \item ENAST, 195
+  \item error bars, 155
+  \item EXAMP3D, 68
+  \item EXAMP3DH, 71
+  \item example, 24
+  \item examples, 21
+
+  \indexspace
+
+  \item FACTOR, 27, 33, 35, 39, 46, 56, 63, 195
+  \item factor, 35, 68, 71
+  \item FIXPR0, 65, 195
+  \item FIXRM0, 65, 195
+  \item FIXVT0, 65, 196
+  \item form feed, 44
+  \item FORTRAN, 10, 21, 22
+  \item FORTRAN-77, 9
+  \item FRAME, 11, 12, 17, 33, 35, 48, 67, 68, 196
+
+  \indexspace
+
+  \item GCONTR, 106, 116, 172, 196
+  \item GETCURSOR, 80, 196
+  \item getcursor, 13
+  \item GIN, 80
+  \item GLPLOT, 110, 196
+  \item GO, 210
+  \item GO3, 210
+  \item graphics tablet, 77
+  \item Graphon, 14
+  \item gray, 16
+  \item Greek, 61
+  \item GRID, 37, 196
+  \item grid, 41
+
+  \indexspace
+
+  \item HEDG, 210
+  \item HELPME, 196
+  \item Hewlett-Packard, 15
+  \item hidden line removal, 67, 71--75
+  \item HIST3D, 71, 113, 196
+  \item histogram, 132
+  \item HISTON, 37, 196
+  \item HLT3D, 37, 53, 106, 126, 196
+  \item HPGL, 15
+  \item hpgl, 14
+  \item HPGL2, 15
+  \item HPGLS, 15
+  \item HPLT, 196
+
+  \indexspace
+
+  \item ICTERM, 33, 38, 39, 196
+  \item image, 179, 183--187
+  \item INIT3D, 67--69, 83, 196
+  \item INIT3DH, 67, 68, 71, 73, 113, 159, 162, 196
+  \item INT1X, 197
+  \item integer, 27
+  \item INTEGER*2, 9, 184, 187
+  \item INTEGER*4, 10, 27, 183, 187
+  \item internal packages, 8
+  \item INTERPC, 197
+  \item INTERSECT, 197
+  \item INXTCHR, 10, 77, 173, 177, 197
+  \item IPCLIP, 172, 194
+  \item IPCLP3, 197
+  \item IRMCHAN, 174, 197
+  \item ISEGCODE, 197
+  \item ISOL3D, 197
+
+  \indexspace
+
+  \item JPLTAG, 197
+
+  \indexspace
+
+  \item LANDMAP, 82, 83, 197
+  \item LASER, 16
+  \item LASERS, 16
+  \item LAST3D, 210
+  \item LCNTR, 116, 172, 197
+  \item LCOEF, 197
+  \item LGAXS, 39, 197
+  \item LGLIN, 39, 40, 58, 197
+  \item LGRID, 37, 41, 198
+  \item LINE, 40, 41, 58, 148, 198
+  \item line, 34
+  \item line type, 9, 34, 43, 44, 55, 56, 64, 213
+  \item line width, 213
+  \item LINE2, 42, 198
+  \item linear, 110, 136, 138, 140, 143, 150, 152
+  \item LINETYPE, 213
+  \item LINHID, 198
+  \item LINSEQ, 9, 43, 63, 198
+  \item linseq, 140
+  \item LNDMAP, 82, 83, 198
+  \item LNDSEA, 85--87, 198
+  \item lndsea1.dat, 82
+  \item LOCATE, 211
+  \item log, 110, 136, 138, 140, 143, 150, 152
+  \item logarithmic, 39--41
+  \item logical, 27
+  \item LONGLIB, 8
+  \item LONGLIBR, 178
+  \item LONGLOC, 19
+  \item LONGLOC:, 82, 85
+  \item LSPLOT, 119, 198
+  \item LSTPLT, 210
+
+  \indexspace
+
+  \item machine dependent, 9
+  \item map, 82, 83, 85, 180, 189
+  \item map routines, 82
+  \item MASTER, 9, 21, 60, 71, 88
+  \item math, 62
+  \item MATMUL4, 175, 198
+  \item MESH3D, 123, 198
+  \item MESH3DX, 123, 198
+  \item metafile, 9, 14, 16
+  \item METCOL, 174, 198
+  \item METMAP, 16, 174, 175, 198
+  \item METMAP2, 175, 199
+  \item METMAP2A, 175, 199
+  \item METMAPA, 175
+  \item METMAPa, 198
+  \item MIDC, 199
+  \item miscellaneous, 171
+  \item MTV4, 175, 199
+  \item MVAX3D, 126, 129, 199
+  \item MVAX3DX, 106, 126, 199
+  \item MVAX5D, 10, 129, 199
+
+  \indexspace
+
+  \item NEWPAGE, 44, 199
+  \item NEWPEN, 44, 55, 56, 64, 186, 199
+  \item NEWVCOL, 199
+  \item newvcol, 11
+  \item NEWVPEN, 199
+  \item newvpen, 11
+  \item NORAMLIB, 17
+  \item NOTABS, 9
+  \item NUM3D, 68, 69, 73, 199
+  \item NUM3DH, 72, 199
+  \item NUMBER, 45, 60, 199
+  \item number, 69, 73
+  \item NXT0VU, 200
+  \item NXTVU, 38, 53, 176, 200
+
+  \indexspace
+
+  \item OLDNUMB, 200
+  \item origin, 46, 69, 71, 74, 177
+
+  \indexspace
+
+  \item packages, 8
+  \item page, 44
+  \item PAUSE, 173, 177, 200
+  \item PAUSEP, 177, 200
+  \item pen plotter, 15
+  \item PFACTOR, 35, 46, 56, 63, 200
+  \item PHIST, 132, 200
+  \item PICHRT, 134, 200
+  \item PLOT, 11, 17, 18, 46, 48, 49, 53, 67, 69, 171, 177, 200
+  \item PLOT3D, 68, 69, 83, 200
+  \item plot3d, 69
+  \item PLOTC, 46, 177, 200
+  \item PLOTLG, 25, 136, 200
+  \item PLOTLG2, 138, 200
+  \item PLOTLGL, 140, 201
+  \item PLOTLGX, 138, 140, 143, 201
+  \item PLOTND, 18, 48, 201
+  \item PLOTRM, 18, 46, 48, 178, 201
+  \item PLOTS, 35, 48, 201
+  \item PLOTSC, 21, 24--26, 146, 201
+  \item PLOTSC2, 148, 201
+  \item PLOTTESTS, 214
+  \item plottests, 24
+  \item plotting window, 46, 177
+  \item PLOTVT, 11, 46, 49, 188, 201
+  \item PLRAX, 51, 201
+  \item PLRLN, 51, 201
+  \item PLT3B, 38, 53, 172, 210
+  \item PLT3D, 37, 38, 52, 106, 126, 172, 201
+  \item plt3d, 176
+  \item PLT3DH, 71--76, 113, 159, 162, 201
+  \item PLTARC, 31, 52, 201
+  \item polar axis, 51
+  \item polar line, 51
+  \item POLARMAP, 84, 202
+  \item POLY1INT, 202
+  \item polygon, 74
+  \item POSTSCRIPT, 16
+  \item postscript, 14
+  \item PPEN, 55, 202
+  \item ppen, 44, 56, 64
+  \item PPLOT, 46, 53, 202
+  \item PPLOTP, 202
+  \item PPLOTS, 202
+  \item PRESPL, 56, 202
+  \item PRETRP, 202
+  \item projection, 83, 84, 86, 87
+  \item PSAVPL, 57, 202
+  \item PSUBPRO, 202
+  \item PXPCGT, 202
+  \item PXPCOM, 210
+
+  \indexspace
+
+  \item QMS, 16, 18, 217
+  \item QUIC, 16
+  \item quic, 14
+
+  \indexspace
+
+  \item RAMCLOSE, 178
+  \item RAMCLOSE , 202
+  \item RAMLIB, 9
+  \item RAMMAP, 16, 174, 180, 181, 202
+  \item RAMMAP2, 181, 202
+  \item RAMOPEN, 174, 181
+  \item RAMOPEN , 203
+  \item RAMOUT, 181
+  \item RAMOUT , 203
+  \item RAMOUTIN, 203
+  \item RAMOUTIN , 204
+  \item Ramtek, 17--19, 36, 44, 57, 64, 65, 78, 80, 178--188
+  \item ramtek, 171
+  \item ramtek emulation, 17
+  \item ramtek emulation file, 17
+  \item Ramtek image data, 179, 181, 183--187
+  \item Ramtek windows, 187
+  \item RAMTEKIO, 210
+  \item raster scan, 14
+  \item raster scan conversion, 15
+  \item RE, 182
+  \item real, 27
+  \item RECT, 55, 203
+  \item rectangle, 79
+  \item rectangular, 85
+  \item REF, 17, 18, 57, 178, 180, 182, 184
+  \item ref, 17
+  \item REFDIS, 18, 57, 178
+  \item REFDIS (entry of RAMCLOSE), 203
+  \item REFLAS, 18, 217
+  \item REFLAS2, 18
+  \item REFLIB, 9
+  \item REFTERM, 18
+  \item REFTEST, 217
+  \item REPLOT, 14, 16
+  \item RESPL, 56, 57, 203
+  \item RFACTOR, 35, 46, 56, 63, 203
+  \item RLASER, 16
+  \item RMCLEAR, 179
+  \item RMCLEAR , 203
+  \item RMCURSOR, 80
+  \item RMDIR, 179, 203
+  \item RMFNTSIZE, 180, 203
+  \item RMMODE, 181, 203
+  \item RMPAN, 182, 203
+  \item RMPEN, 56, 186, 205
+  \item rmpen, 44, 55, 64
+  \item RMPIX, 182, 203
+  \item RMPIXB, 182, 204
+  \item RMPLOT, 183
+  \item RMPLOT , 204
+  \item RMREADBYTE, 183
+  \item RMREADBYTE , 204
+  \item RMREADCOL, 183
+  \item RMREADCOL , 204
+  \item RMREADCURSOR, 184, 204
+  \item RMREADWORD, 184
+  \item RMREADWORD , 204
+  \item RMRESET, 204
+  \item RMSETCUR, 184
+  \item RMSETCUR , 204
+  \item RMSETCURSOR, 184
+  \item RMSETSIZE, 185, 204
+  \item RMSIZE, 185, 204
+  \item RMSTART, 185
+  \item RMSTART , 204
+  \item RMTEK, 210
+  \item RMTEXT, 185
+  \item RMTEXT , 204
+  \item RMTEXTURE, 183, 186
+  \item RMTEXTURE , 204
+  \item RMWIND, 186
+  \item RMWIND , 205
+  \item RMWOPT, 186, 203
+  \item RMWRITEBYTE, 187
+  \item RMWRITEBYTE , 205
+  \item RMWRITECOL, 19, 187
+  \item RMWRITECOL , 205
+  \item RMWRITEWORD, 18, 19, 187
+  \item RMWRITEWORD , 205
+  \item RMZOOM, 188
+  \item RMZOOM , 205
+  \item rotation, 69
+  \item ROTEM, 205
+  \item RPLOTS, 205
+  \item RRESPL, 56, 205
+  \item RSAVPL, 57, 205
+  \item RTERM, 57, 205
+  \item RVXPT3D, 205
+
+  \indexspace
+
+  \item SAVPL, 56, 57, 205
+  \item SCALE, 42, 58, 205
+  \item scale, 68, 71
+  \item SCALG, 40, 58, 206
+  \item SCATPL, 150, 206
+  \item scatter plot, 150
+  \item screen coordinates, 69
+  \item SEGCODE, 206
+  \item seismic plotting, 152
+  \item SEISPL, 152, 206
+  \item Selanar, 11, 12, 35, 65
+  \item SFPLOT, 206
+  \item SHADE, 59, 206
+  \item SKETCH, 71--75, 113, 159, 162, 206
+  \item SMOOTHC, 206
+  \item software line type, 34, 43
+  \item spherical, 85
+  \item SPIDER, 206
+  \item SPIFUN, 206
+  \item SPISET, 206
+  \item SPLOTS, 155, 206
+  \item SPLOTSX, 206
+  \item SPRECT1, 85, 207
+  \item STAT3D, 207
+  \item STAT3D2, 207
+  \item stripping, 14
+  \item strips, 14
+  \item SUBPROC, 207
+  \item surface plot, 113, 159, 162
+  \item SYM3D, 68, 70, 207
+  \item SYM3DH, 72, 75, 207
+  \item SYMBOL, 59--61, 70, 75, 207
+  \item SYMBOLS, 212
+  \item symbols, 70
+  \item SYMS, 60, 61, 63, 207, 212
+  \item SYMSS, 63, 207, 212
+  \item SYSQIO, 173
+
+  \indexspace
+
+  \item T3DH, 71, 159
+  \item TCLEAR, 12
+  \item TEKBO, 189
+  \item TEKBOX, 188, 189, 207
+  \item TEKCODE, 189, 207
+  \item TEKMAP, 16, 174, 189, 207
+  \item Tektronics, 188, 189
+  \item Tektronix, 11, 13, 14, 80
+  \item Tektronix 4010/4014, 35
+  \item Tektronix 4107/4109, 35
+  \item Terminal, 188
+  \item terminal, 11, 33, 36, 44, 64, 65, 78, 189
+  \item TERSCL, 189, 190, 207
+  \item text, 48, 180
+  \item TR3DH, 207
+  \item transformation, 38, 53, 172
+  \item TRCELPLT3D, 208
+  \item TRIANGC, 100, 190, 208
+  \item triangc, 162
+  \item TRIG3DH, 71, 162, 208
+  \item TRILGHI, 15
+  \item TRILGLO, 15
+  \item Trilog, 15
+  \item TT\_IO, 211
+
+  \indexspace
+
+  \item VAX, 10, 15, 16, 18--21, 23
+  \item VAX/VMS, 9, 18
+  \item vax/vms, 19
+  \item VAX3D, 123, 165, 168, 208
+  \item VAX3DX, 96, 123, 165, 208
+  \item VAX5D, 10, 168, 208
+  \item VCLEAR.com, 13
+  \item VCPY, 208
+  \item VFACTOR, 35, 46, 56, 63, 208
+  \item view port, 46, 177
+  \item VMS, 20
+  \item VPEN, 64, 208
+  \item vpen, 44, 55, 56
+  \item VPLOTS, 11, 208
+  \item VRESPL, 56
+  \item VRESPL (entry of VSAVPL), 208
+  \item VSAVPL, 57, 208
+  \item VSRT1, 208
+  \item VSRTR, 208
+  \item VT100, 12, 210
+  \item vt100, 11, 35, 65, 173
+  \item VT125, 12
+  \item vt125, 11, 35, 65, 77
+  \item VT220, 13
+  \item vt220, 35, 65
+  \item VT240, 12
+  \item vt240, 11, 35, 65
+  \item VTPLOT, 188, 209
+  \item vtplot, 11
+  \item VXPT3D, 209
+
+  \indexspace
+
+  \item WHERE, 64, 209
+  \item WHERE3D, 70, 209
+  \item WHERE3H, 76, 209
+  \item WHEREPR, 54, 65, 209
+  \item WHERERM, 49, 65, 209
+  \item WHEREVT, 50, 65, 209
+  \item window, 46, 177, 181, 187
+
+  \indexspace
+
+  \item X Windows, 17
+  \item X-Axis, 36
+  \item X11R5, 17
+  \item XCLEAR, 14
+  \item XFRM3D, 76, 209
+  \item XOR, 78
+  \item Xterm, 14, 35
+  \item xterm, 11
+  \item XVMUL3D, 191, 209
+
+  \indexspace
+
+  \item Y-Axis, 36
+
+\end{theindex}
